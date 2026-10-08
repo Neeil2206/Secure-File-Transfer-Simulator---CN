@@ -1,0 +1,4 @@
+This is a sample file for Secure File Transfer Simulation.
+
+Student Name: Neeil Mahadik
+Project: FTP vs SFTP vs SCP
